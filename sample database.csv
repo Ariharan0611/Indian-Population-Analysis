@@ -1,0 +1,601 @@
+State,District,Population,Male_Population,Female_Population,Literacy_Rate,Area_sq_km,Population_Density,Sex_Ratio,Urban_Population,Data_Type,Reference_Year
+Andhra Pradesh,AP_District_01,62312,31997,30315,73.63,1362,45.75,947,40339,Synthetic / Simulated,2025
+Andhra Pradesh,AP_District_02,48434,24944,23490,77.07,1516,31.95,942,25019,Synthetic / Simulated,2025
+Andhra Pradesh,AP_District_03,67292,35412,31880,71.14,556,121.03,900,33938,Synthetic / Simulated,2025
+Andhra Pradesh,AP_District_04,70970,37233,33737,70.86,1577,45,906,41745,Synthetic / Simulated,2025
+Andhra Pradesh,AP_District_05,67555,35690,31865,74.99,1719,39.3,893,33851,Synthetic / Simulated,2025
+Andhra Pradesh,AP_District_06,62694,32114,30580,72.5,766,81.85,952,34055,Synthetic / Simulated,2025
+Andhra Pradesh,AP_District_07,74327,38136,36191,76.87,1130,65.78,949,43641,Synthetic / Simulated,2025
+Andhra Pradesh,AP_District_08,81781,42184,39597,74.38,2007,40.75,939,49886,Synthetic / Simulated,2025
+Andhra Pradesh,AP_District_09,62393,32202,30191,75.41,2352,26.53,938,36676,Synthetic / Simulated,2025
+Andhra Pradesh,AP_District_10,89351,45948,43403,74.53,1404,63.64,945,48659,Synthetic / Simulated,2025
+Andhra Pradesh,AP_District_11,67503,35169,32334,71.15,1089,61.99,919,40892,Synthetic / Simulated,2025
+Andhra Pradesh,AP_District_12,84334,44289,40045,74.41,1222,69.01,904,50742,Synthetic / Simulated,2025
+Andhra Pradesh,AP_District_13,73696,37816,35880,70.91,1245,59.19,949,36928,Synthetic / Simulated,2025
+Andhra Pradesh,AP_District_14,78270,41131,37139,72.85,1536,50.96,903,42884,Synthetic / Simulated,2025
+Andhra Pradesh,AP_District_15,86140,44629,41511,73.62,1432,60.15,930,50565,Synthetic / Simulated,2025
+Andhra Pradesh,AP_District_16,100223,52969,47254,70.82,2244,44.66,892,63591,Synthetic / Simulated,2025
+Andhra Pradesh,AP_District_17,81893,42553,39340,74.15,1589,51.54,924,49056,Synthetic / Simulated,2025
+Andhra Pradesh,AP_District_18,87528,46013,41515,75.62,2496,35.07,902,56641,Synthetic / Simulated,2025
+Andhra Pradesh,AP_District_19,59672,30838,28834,74.55,2278,26.19,935,35485,Synthetic / Simulated,2025
+Andhra Pradesh,AP_District_20,92147,48699,43448,73.65,2100,43.88,892,50686,Synthetic / Simulated,2025
+Arunachal Pradesh,AR_District_01,51973,25290,26683,70.86,3353,15.5,1055,14118,Synthetic / Simulated,2025
+Arunachal Pradesh,AR_District_02,14471,7047,7424,73.92,2839,5.1,1053,2788,Synthetic / Simulated,2025
+Arunachal Pradesh,AR_District_03,30812,14927,15885,69.37,4714,6.54,1064,5599,Synthetic / Simulated,2025
+Arunachal Pradesh,AR_District_04,35683,17537,18146,73.9,1420,25.13,1035,10526,Synthetic / Simulated,2025
+Arunachal Pradesh,AR_District_05,31441,15395,16046,68.94,4059,7.75,1042,9682,Synthetic / Simulated,2025
+Arunachal Pradesh,AR_District_06,29124,14488,14636,74.36,818,35.6,1010,5855,Synthetic / Simulated,2025
+Arunachal Pradesh,AR_District_07,30606,15163,15443,73.85,3148,9.72,1018,5587,Synthetic / Simulated,2025
+Arunachal Pradesh,AR_District_08,34616,17259,17357,75.41,2193,15.78,1006,9544,Synthetic / Simulated,2025
+Arunachal Pradesh,AR_District_09,44838,22232,22606,70.24,4531,9.9,1017,11354,Synthetic / Simulated,2025
+Arunachal Pradesh,AR_District_10,58545,28506,30039,71.8,5004,11.7,1054,11396,Synthetic / Simulated,2025
+Arunachal Pradesh,AR_District_11,65829,32511,33318,69.03,2476,26.59,1025,19427,Synthetic / Simulated,2025
+Arunachal Pradesh,AR_District_12,45225,22561,22664,74.07,6222,7.27,1005,13703,Synthetic / Simulated,2025
+Arunachal Pradesh,AR_District_13,35855,17421,18434,75.07,4753,7.54,1058,8466,Synthetic / Simulated,2025
+Arunachal Pradesh,AR_District_14,63280,31408,31872,72.39,3680,17.2,1015,14645,Synthetic / Simulated,2025
+Arunachal Pradesh,AR_District_15,58587,28362,30225,69.77,6279,9.33,1066,10139,Synthetic / Simulated,2025
+Arunachal Pradesh,AR_District_16,61960,30895,31065,73.03,3136,19.76,1006,12812,Synthetic / Simulated,2025
+Arunachal Pradesh,AR_District_17,64378,30982,33396,75.4,4250,15.15,1078,15187,Synthetic / Simulated,2025
+Arunachal Pradesh,AR_District_18,70381,34063,36318,73.69,6949,10.13,1066,20726,Synthetic / Simulated,2025
+Arunachal Pradesh,AR_District_19,38239,18420,19819,70.03,1704,22.44,1076,7573,Synthetic / Simulated,2025
+Arunachal Pradesh,AR_District_20,60483,29325,31158,69.32,4126,14.66,1063,12748,Synthetic / Simulated,2025
+Assam,AS_District_01,61775,31786,29989,77.64,2091,29.54,943,17273,Synthetic / Simulated,2025
+Assam,AS_District_02,40125,20672,19453,78.04,2279,17.61,941,14918,Synthetic / Simulated,2025
+Assam,AS_District_03,57907,29876,28031,80.82,1320,43.87,938,17476,Synthetic / Simulated,2025
+Assam,AS_District_04,64974,33566,31408,80.43,2226,29.19,936,25807,Synthetic / Simulated,2025
+Assam,AS_District_05,82781,42955,39826,77.26,1423,58.17,927,28083,Synthetic / Simulated,2025
+Assam,AS_District_06,62602,31464,31138,82.06,677,92.47,990,19777,Synthetic / Simulated,2025
+Assam,AS_District_07,43035,22175,20860,77.85,1279,33.65,941,10690,Synthetic / Simulated,2025
+Assam,AS_District_08,82912,42363,40549,77.26,2283,36.32,957,22501,Synthetic / Simulated,2025
+Assam,AS_District_09,80118,40751,39367,77.02,2961,27.06,966,27158,Synthetic / Simulated,2025
+Assam,AS_District_10,62220,32127,30093,78.39,2160,28.81,937,23254,Synthetic / Simulated,2025
+Assam,AS_District_11,68307,34297,34010,76.85,973,70.2,992,23662,Synthetic / Simulated,2025
+Assam,AS_District_12,57750,29364,28386,83.15,3193,18.09,967,15975,Synthetic / Simulated,2025
+Assam,AS_District_13,77263,39164,38099,79.86,2630,29.38,973,24132,Synthetic / Simulated,2025
+Assam,AS_District_14,85621,43526,42095,77.61,1658,51.64,967,29629,Synthetic / Simulated,2025
+Assam,AS_District_15,53590,27671,25919,78.6,1105,48.5,937,20959,Synthetic / Simulated,2025
+Assam,AS_District_16,74424,38358,36066,83.14,1776,41.91,940,25207,Synthetic / Simulated,2025
+Assam,AS_District_17,70645,35495,35150,78.53,2189,32.27,990,22561,Synthetic / Simulated,2025
+Assam,AS_District_18,65194,33050,32144,81.32,3383,19.27,973,22642,Synthetic / Simulated,2025
+Assam,AS_District_19,90300,46454,43846,80.63,2217,40.73,944,25879,Synthetic / Simulated,2025
+Assam,AS_District_20,87892,44788,43104,80.44,1533,57.33,962,29057,Synthetic / Simulated,2025
+Bihar,BR_District_01,78928,41335,37593,61.89,427,184.84,909,23979,Synthetic / Simulated,2025
+Bihar,BR_District_02,72985,38195,34790,61.41,474,153.98,911,22279,Synthetic / Simulated,2025
+Bihar,BR_District_03,84297,43106,41191,63.59,521,161.8,956,24285,Synthetic / Simulated,2025
+Bihar,BR_District_04,87064,45153,41911,60.98,568,153.28,928,20661,Synthetic / Simulated,2025
+Bihar,BR_District_05,77414,40238,37176,64.91,615,125.88,924,15512,Synthetic / Simulated,2025
+Bihar,BR_District_06,80759,42510,38249,63.57,662,121.99,900,21863,Synthetic / Simulated,2025
+Bihar,BR_District_07,53047,27143,25904,63.38,709,74.82,954,11355,Synthetic / Simulated,2025
+Bihar,BR_District_08,94898,48794,46104,61.31,756,125.53,945,31351,Synthetic / Simulated,2025
+Bihar,BR_District_09,98262,51356,46906,64.3,803,122.37,913,32605,Synthetic / Simulated,2025
+Bihar,BR_District_10,96459,50882,45577,61.92,850,113.48,896,28665,Synthetic / Simulated,2025
+Bihar,BR_District_11,77111,40401,36710,60.88,897,85.97,909,17609,Synthetic / Simulated,2025
+Bihar,BR_District_12,55523,29118,26405,64.55,944,58.82,907,15138,Synthetic / Simulated,2025
+Bihar,BR_District_13,105050,53837,51213,60.93,991,106,951,35319,Synthetic / Simulated,2025
+Bihar,BR_District_14,85543,44618,40925,66.84,1038,82.41,917,18009,Synthetic / Simulated,2025
+Bihar,BR_District_15,59396,30404,28992,65.39,1085,54.74,954,18564,Synthetic / Simulated,2025
+Bihar,BR_District_16,82849,42467,40382,65.59,1132,73.19,951,29244,Synthetic / Simulated,2025
+Bihar,BR_District_17,102628,52767,49861,66.82,1179,87.05,945,35312,Synthetic / Simulated,2025
+Bihar,BR_District_18,109901,57601,52300,64.04,1226,89.64,908,29536,Synthetic / Simulated,2025
+Bihar,BR_District_19,90765,47485,43280,60.83,1273,71.3,911,20687,Synthetic / Simulated,2025
+Bihar,BR_District_20,111419,57220,54199,65.49,1320,84.41,947,27954,Synthetic / Simulated,2025
+Chhattisgarh,CG_District_01,35899,18765,17134,75.94,1154,31.11,913,14560,Synthetic / Simulated,2025
+Chhattisgarh,CG_District_02,63329,32833,30496,73.79,3069,20.64,929,19731,Synthetic / Simulated,2025
+Chhattisgarh,CG_District_03,60063,31281,28782,75.51,611,98.3,920,17289,Synthetic / Simulated,2025
+Chhattisgarh,CG_District_04,58822,30514,28308,74.01,1338,43.96,928,17133,Synthetic / Simulated,2025
+Chhattisgarh,CG_District_05,72187,37552,34635,76.56,876,82.41,922,26550,Synthetic / Simulated,2025
+Chhattisgarh,CG_District_06,61442,32016,29426,73.25,3503,17.54,919,24588,Synthetic / Simulated,2025
+Chhattisgarh,CG_District_07,59327,30972,28355,76.69,3725,15.93,916,20161,Synthetic / Simulated,2025
+Chhattisgarh,CG_District_08,68893,35477,33416,73.37,809,85.16,942,24045,Synthetic / Simulated,2025
+Chhattisgarh,CG_District_09,65070,33275,31795,74.44,1352,48.13,956,18333,Synthetic / Simulated,2025
+Chhattisgarh,CG_District_10,63382,32528,30854,73.16,1890,33.54,949,19453,Synthetic / Simulated,2025
+Chhattisgarh,CG_District_11,86551,45201,41350,71.77,1117,77.49,915,34427,Synthetic / Simulated,2025
+Chhattisgarh,CG_District_12,50050,25800,24250,73.22,3814,13.12,940,16208,Synthetic / Simulated,2025
+Chhattisgarh,CG_District_13,74916,39307,35609,74.55,1695,44.2,906,28448,Synthetic / Simulated,2025
+Chhattisgarh,CG_District_14,48683,25621,23062,72.57,3011,16.17,900,20202,Synthetic / Simulated,2025
+Chhattisgarh,CG_District_15,85430,45091,40339,77.16,2068,41.31,895,31108,Synthetic / Simulated,2025
+Chhattisgarh,CG_District_16,49669,25391,24278,71.73,1782,27.87,956,21098,Synthetic / Simulated,2025
+Chhattisgarh,CG_District_17,98586,51700,46886,74.63,3986,24.73,907,37703,Synthetic / Simulated,2025
+Chhattisgarh,CG_District_18,84316,43995,40321,77.81,3331,25.31,916,36086,Synthetic / Simulated,2025
+Chhattisgarh,CG_District_19,67057,34766,32291,77.91,2725,24.61,929,24284,Synthetic / Simulated,2025
+Chhattisgarh,CG_District_20,96027,50120,45907,73.91,4182,22.96,916,36977,Synthetic / Simulated,2025
+Goa,GA_District_01,10899,5578,5321,88.3,6186,1.76,954,6934,Synthetic / Simulated,2025
+Goa,GA_District_02,38977,19685,19292,91.69,3102,12.57,980,24551,Synthetic / Simulated,2025
+Goa,GA_District_03,34406,17489,16917,86.93,582,59.12,967,22638,Synthetic / Simulated,2025
+Goa,GA_District_04,55080,27751,27329,87.13,5548,9.93,985,32316,Synthetic / Simulated,2025
+Goa,GA_District_05,23627,12175,11452,89.97,4506,5.24,941,13231,Synthetic / Simulated,2025
+Goa,GA_District_06,36461,18275,18186,90.78,6078,6,995,25319,Synthetic / Simulated,2025
+Goa,GA_District_07,25707,13226,12481,90.97,5343,4.81,944,16783,Synthetic / Simulated,2025
+Goa,GA_District_08,34205,17613,16592,90.82,5958,5.74,942,19673,Synthetic / Simulated,2025
+Goa,GA_District_09,59622,30901,28721,91.37,1303,45.76,929,32370,Synthetic / Simulated,2025
+Goa,GA_District_10,34530,17728,16802,89.02,1743,19.81,948,20199,Synthetic / Simulated,2025
+Goa,GA_District_11,26481,13676,12805,86.25,1968,13.46,936,18151,Synthetic / Simulated,2025
+Goa,GA_District_12,52002,26145,25857,92.28,1599,32.52,989,32455,Synthetic / Simulated,2025
+Goa,GA_District_13,39511,19966,19545,90.77,6149,6.43,979,25730,Synthetic / Simulated,2025
+Goa,GA_District_14,63503,32954,30549,91.35,3103,20.47,927,37097,Synthetic / Simulated,2025
+Goa,GA_District_15,53152,27460,25692,91.82,6953,7.64,936,34220,Synthetic / Simulated,2025
+Goa,GA_District_16,30169,15334,14835,86.84,4224,7.14,967,20215,Synthetic / Simulated,2025
+Goa,GA_District_17,43447,22335,21112,90.94,3289,13.21,945,29777,Synthetic / Simulated,2025
+Goa,GA_District_18,29550,15236,14314,91.73,6408,4.61,939,19905,Synthetic / Simulated,2025
+Goa,GA_District_19,62838,32449,30389,91.52,4574,13.74,937,35677,Synthetic / Simulated,2025
+Goa,GA_District_20,60122,30401,29721,90.03,6310,9.53,978,40708,Synthetic / Simulated,2025
+Gujarat,GJ_District_01,82186,43395,38791,82.73,787,104.43,894,44994,Synthetic / Simulated,2025
+Gujarat,GJ_District_02,55955,29448,26507,82.12,766,73.05,900,25934,Synthetic / Simulated,2025
+Gujarat,GJ_District_03,70508,36149,34359,81.75,1021,69.06,950,31090,Synthetic / Simulated,2025
+Gujarat,GJ_District_04,96122,50399,45723,83.06,914,105.17,907,41476,Synthetic / Simulated,2025
+Gujarat,GJ_District_05,63064,32694,30370,87.37,995,63.38,929,28905,Synthetic / Simulated,2025
+Gujarat,GJ_District_06,98915,52165,46750,81.84,1015,97.45,896,48704,Synthetic / Simulated,2025
+Gujarat,GJ_District_07,73967,38329,35638,86.81,1097,67.43,930,34993,Synthetic / Simulated,2025
+Gujarat,GJ_District_08,80582,41520,39062,83.44,1361,59.21,941,44039,Synthetic / Simulated,2025
+Gujarat,GJ_District_09,86457,44567,41890,84.48,1139,75.91,940,43633,Synthetic / Simulated,2025
+Gujarat,GJ_District_10,96933,50765,46168,84.04,1155,83.92,909,52039,Synthetic / Simulated,2025
+Gujarat,GJ_District_11,63375,32981,30394,81.02,1427,44.41,922,34996,Synthetic / Simulated,2025
+Gujarat,GJ_District_12,111603,58605,52998,83.81,1081,103.24,904,53233,Synthetic / Simulated,2025
+Gujarat,GJ_District_13,90948,47874,43074,86.74,1004,90.59,900,43317,Synthetic / Simulated,2025
+Gujarat,GJ_District_14,84733,43664,41069,82.29,1576,53.76,941,45009,Synthetic / Simulated,2025
+Gujarat,GJ_District_15,78746,41101,37645,85.45,1632,48.25,916,36750,Synthetic / Simulated,2025
+Gujarat,GJ_District_16,64422,34067,30355,84.91,1400,46.02,891,27318,Synthetic / Simulated,2025
+Gujarat,GJ_District_17,104979,54883,50096,83.21,1405,74.72,913,45482,Synthetic / Simulated,2025
+Gujarat,GJ_District_18,79016,41432,37584,81.5,1263,62.56,907,42436,Synthetic / Simulated,2025
+Gujarat,GJ_District_19,93236,48844,44392,84.41,1751,53.25,909,50124,Synthetic / Simulated,2025
+Gujarat,GJ_District_20,86258,44847,41411,84.78,1921,44.9,923,45702,Synthetic / Simulated,2025
+Haryana,HR_District_01,33556,18025,15531,84.43,986,34.03,862,13863,Synthetic / Simulated,2025
+Haryana,HR_District_02,62833,32945,29888,80.93,2187,28.73,907,25964,Synthetic / Simulated,2025
+Haryana,HR_District_03,49528,26164,23364,85.58,3048,16.25,893,21337,Synthetic / Simulated,2025
+Haryana,HR_District_04,45224,23581,21643,82.15,2359,19.17,918,18638,Synthetic / Simulated,2025
+Haryana,HR_District_05,52445,27817,24628,82.15,2600,20.17,885,19832,Synthetic / Simulated,2025
+Haryana,HR_District_06,43979,23187,20792,87.4,3231,13.61,897,19579,Synthetic / Simulated,2025
+Haryana,HR_District_07,62215,32840,29375,80.83,1938,32.1,894,27945,Synthetic / Simulated,2025
+Haryana,HR_District_08,74135,39924,34211,82,1295,57.25,857,34036,Synthetic / Simulated,2025
+Haryana,HR_District_09,54421,28436,25985,84.71,2106,25.84,914,25707,Synthetic / Simulated,2025
+Haryana,HR_District_10,49027,25932,23095,81.7,2864,17.12,891,21814,Synthetic / Simulated,2025
+Haryana,HR_District_11,77992,40921,37071,82.74,3024,25.79,906,32346,Synthetic / Simulated,2025
+Haryana,HR_District_12,83291,44267,39024,82.31,2114,39.4,882,39478,Synthetic / Simulated,2025
+Haryana,HR_District_13,54255,28997,25258,81.21,2721,19.94,871,23268,Synthetic / Simulated,2025
+Haryana,HR_District_14,73988,38969,35019,85.19,3206,23.08,899,35558,Synthetic / Simulated,2025
+Haryana,HR_District_15,71525,37346,34179,82.81,1797,39.8,915,30109,Synthetic / Simulated,2025
+Haryana,HR_District_16,61793,32916,28877,83.99,3626,17.04,877,26551,Synthetic / Simulated,2025
+Haryana,HR_District_17,69511,36638,32873,81.25,1250,55.61,897,30375,Synthetic / Simulated,2025
+Haryana,HR_District_18,81736,42886,38850,81.58,3187,25.65,906,34827,Synthetic / Simulated,2025
+Haryana,HR_District_19,78820,41925,36895,85.37,3779,20.86,880,38213,Synthetic / Simulated,2025
+Haryana,HR_District_20,90837,48678,42159,82.01,2499,36.35,866,33027,Synthetic / Simulated,2025
+Himachal Pradesh,HP_District_01,41830,21300,20530,85.48,2983,14.02,964,8760,Synthetic / Simulated,2025
+Himachal Pradesh,HP_District_02,53206,26701,26505,82.92,4215,12.62,993,10157,Synthetic / Simulated,2025
+Himachal Pradesh,HP_District_03,46183,23832,22351,86.13,1334,34.62,938,14735,Synthetic / Simulated,2025
+Himachal Pradesh,HP_District_04,53041,27020,26021,88.75,3093,17.15,963,16559,Synthetic / Simulated,2025
+Himachal Pradesh,HP_District_05,50024,25652,24372,86.71,825,60.64,950,16984,Synthetic / Simulated,2025
+Himachal Pradesh,HP_District_06,57073,28967,28106,82.73,3047,18.73,970,13680,Synthetic / Simulated,2025
+Himachal Pradesh,HP_District_07,46371,23294,23077,88.46,3799,12.21,991,12723,Synthetic / Simulated,2025
+Himachal Pradesh,HP_District_08,37664,18893,18771,86.43,959,39.27,994,8126,Synthetic / Simulated,2025
+Himachal Pradesh,HP_District_09,32210,16534,15676,82.82,2602,12.38,948,11221,Synthetic / Simulated,2025
+Himachal Pradesh,HP_District_10,27305,14029,13276,87.36,951,28.71,946,8793,Synthetic / Simulated,2025
+Himachal Pradesh,HP_District_11,56172,29132,27040,89.34,5610,10.01,928,14133,Synthetic / Simulated,2025
+Himachal Pradesh,HP_District_12,55194,27730,27464,85.88,1887,29.25,990,15071,Synthetic / Simulated,2025
+Himachal Pradesh,HP_District_13,68914,35507,33407,89.3,6051,11.39,941,20815,Synthetic / Simulated,2025
+Himachal Pradesh,HP_District_14,47232,24240,22992,87.51,5462,8.65,949,11905,Synthetic / Simulated,2025
+Himachal Pradesh,HP_District_15,44096,22592,21504,86.02,5789,7.62,952,11634,Synthetic / Simulated,2025
+Himachal Pradesh,HP_District_16,50872,26197,24675,83.34,5890,8.64,942,15569,Synthetic / Simulated,2025
+Himachal Pradesh,HP_District_17,36525,18351,18174,83.45,1681,21.73,990,8722,Synthetic / Simulated,2025
+Himachal Pradesh,HP_District_18,43519,22160,21359,83.99,5804,7.5,964,14717,Synthetic / Simulated,2025
+Himachal Pradesh,HP_District_19,56197,28838,27359,84.34,2939,19.12,949,13978,Synthetic / Simulated,2025
+Himachal Pradesh,HP_District_20,80218,40223,39995,85.59,1363,58.85,994,17207,Synthetic / Simulated,2025
+Jharkhand,JH_District_01,50494,26664,23830,71.35,2462,20.51,894,16469,Synthetic / Simulated,2025
+Jharkhand,JH_District_02,37695,19922,17773,71.56,2071,18.2,892,14428,Synthetic / Simulated,2025
+Jharkhand,JH_District_03,81868,42628,39240,68.73,827,98.99,921,23791,Synthetic / Simulated,2025
+Jharkhand,JH_District_04,46665,23937,22728,72.16,2847,16.39,949,13103,Synthetic / Simulated,2025
+Jharkhand,JH_District_05,73961,38555,35406,69.44,2421,30.55,918,28719,Synthetic / Simulated,2025
+Jharkhand,JH_District_06,66141,34492,31649,74.11,960,68.9,918,24593,Synthetic / Simulated,2025
+Jharkhand,JH_District_07,42874,22443,20431,68.94,1695,25.29,910,15977,Synthetic / Simulated,2025
+Jharkhand,JH_District_08,37575,19826,17749,71.8,1677,22.41,895,10689,Synthetic / Simulated,2025
+Jharkhand,JH_District_09,51267,26622,24645,70.85,2936,17.46,926,18610,Synthetic / Simulated,2025
+Jharkhand,JH_District_10,51794,26770,25024,69.87,2706,19.14,935,13191,Synthetic / Simulated,2025
+Jharkhand,JH_District_11,80532,42592,37940,71.43,2845,28.31,891,20868,Synthetic / Simulated,2025
+Jharkhand,JH_District_12,51038,26782,24256,73.07,1353,37.72,906,13633,Synthetic / Simulated,2025
+Jharkhand,JH_District_13,78536,40231,38305,73.36,1299,60.46,952,19558,Synthetic / Simulated,2025
+Jharkhand,JH_District_14,67729,35510,32219,72.9,2990,22.65,907,17184,Synthetic / Simulated,2025
+Jharkhand,JH_District_15,81996,42010,39986,69.42,2068,39.65,952,25218,Synthetic / Simulated,2025
+Jharkhand,JH_District_16,81390,42568,38822,70.2,2716,29.97,912,31481,Synthetic / Simulated,2025
+Jharkhand,JH_District_17,103130,53599,49531,71.06,2216,46.54,924,31271,Synthetic / Simulated,2025
+Jharkhand,JH_District_18,57815,29802,28013,69.8,2074,27.88,940,22200,Synthetic / Simulated,2025
+Jharkhand,JH_District_19,62475,32834,29641,69.72,3116,20.05,903,18173,Synthetic / Simulated,2025
+Jharkhand,JH_District_20,96709,49999,46710,69.04,3396,28.48,934,29297,Synthetic / Simulated,2025
+Karnataka,KA_District_01,49317,25335,23982,88.76,856,57.61,947,26024,Synthetic / Simulated,2025
+Karnataka,KA_District_02,92364,47369,44995,86.47,753,122.66,950,57535,Synthetic / Simulated,2025
+Karnataka,KA_District_03,87673,46105,41568,86.11,622,140.95,902,48194,Synthetic / Simulated,2025
+Karnataka,KA_District_04,77637,40504,37133,90.29,952,81.55,917,38117,Synthetic / Simulated,2025
+Karnataka,KA_District_05,79688,41706,37982,85.99,971,82.07,911,48371,Synthetic / Simulated,2025
+Karnataka,KA_District_06,48005,25294,22711,86.21,855,56.15,898,23526,Synthetic / Simulated,2025
+Karnataka,KA_District_07,99733,51147,48586,86.52,985,101.25,950,55292,Synthetic / Simulated,2025
+Karnataka,KA_District_08,66586,34571,32015,87.86,985,67.6,926,37751,Synthetic / Simulated,2025
+Karnataka,KA_District_09,105240,55183,50057,89.79,962,109.4,907,56351,Synthetic / Simulated,2025
+Karnataka,KA_District_10,84328,43962,40366,85.91,1087,77.58,918,43575,Synthetic / Simulated,2025
+Karnataka,KA_District_11,88659,46264,42395,84.9,1181,75.07,916,49416,Synthetic / Simulated,2025
+Karnataka,KA_District_12,88448,46294,42154,85.45,1323,66.85,911,55044,Synthetic / Simulated,2025
+Karnataka,KA_District_13,109462,57764,51698,89.06,1231,88.92,895,54085,Synthetic / Simulated,2025
+Karnataka,KA_District_14,75189,38672,36517,86.47,1263,59.53,944,36517,Synthetic / Simulated,2025
+Karnataka,KA_District_15,64244,33969,30275,85.64,1130,56.85,891,36954,Synthetic / Simulated,2025
+Karnataka,KA_District_16,109087,55751,53336,85.28,1212,90.01,957,66391,Synthetic / Simulated,2025
+Karnataka,KA_District_17,83487,43879,39608,84.75,1217,68.6,903,44923,Synthetic / Simulated,2025
+Karnataka,KA_District_18,79364,41922,37442,85.38,1373,57.8,893,47680,Synthetic / Simulated,2025
+Karnataka,KA_District_19,90643,46956,43687,85.87,1368,66.26,930,56277,Synthetic / Simulated,2025
+Karnataka,KA_District_20,112243,58898,53345,87.03,1426,78.71,906,64203,Synthetic / Simulated,2025
+Kerala,KL_District_01,37255,18560,18695,93.59,1545,24.11,1007,26218,Synthetic / Simulated,2025
+Kerala,KL_District_02,39762,19203,20559,95.53,861,46.18,1071,30091,Synthetic / Simulated,2025
+Kerala,KL_District_03,65848,31973,33875,94.3,2293,28.72,1059,47140,Synthetic / Simulated,2025
+Kerala,KL_District_04,52649,25586,27063,92,3221,16.35,1058,39391,Synthetic / Simulated,2025
+Kerala,KL_District_05,73221,35285,37936,92.63,3522,20.79,1075,49486,Synthetic / Simulated,2025
+Kerala,KL_District_06,69318,33535,35783,94.16,3575,19.39,1067,50527,Synthetic / Simulated,2025
+Kerala,KL_District_07,74439,36088,38351,90.82,2689,27.68,1063,46341,Synthetic / Simulated,2025
+Kerala,KL_District_08,48115,23702,24413,93.38,2328,20.67,1030,31606,Synthetic / Simulated,2025
+Kerala,KL_District_09,67774,32699,35075,92.38,2682,25.27,1073,43695,Synthetic / Simulated,2025
+Kerala,KL_District_10,36441,18049,18392,97.02,3039,11.99,1019,24512,Synthetic / Simulated,2025
+Kerala,KL_District_11,52330,25231,27099,93.75,3349,15.63,1074,31714,Synthetic / Simulated,2025
+Kerala,KL_District_12,69531,33669,35862,93.78,3660,19,1065,51917,Synthetic / Simulated,2025
+Kerala,KL_District_13,72962,35847,37115,92.7,3783,19.29,1035,54979,Synthetic / Simulated,2025
+Kerala,KL_District_14,92364,45007,47357,90.71,1167,79.15,1052,56650,Synthetic / Simulated,2025
+Kerala,KL_District_15,78820,39033,39787,95.82,4108,19.19,1019,49401,Synthetic / Simulated,2025
+Kerala,KL_District_16,85902,41888,44014,92.92,3261,26.34,1051,54086,Synthetic / Simulated,2025
+Kerala,KL_District_17,68142,33863,34279,95.3,2359,28.89,1012,41251,Synthetic / Simulated,2025
+Kerala,KL_District_18,73962,36595,37367,95.24,2103,35.17,1021,52947,Synthetic / Simulated,2025
+Kerala,KL_District_19,68108,33538,34570,91.79,4061,16.77,1031,48515,Synthetic / Simulated,2025
+Kerala,KL_District_20,77207,37719,39488,93.48,2495,30.94,1047,50643,Synthetic / Simulated,2025
+Madhya Pradesh,MP_District_01,54839,28606,26233,79.05,656,83.6,917,14833,Synthetic / Simulated,2025
+Madhya Pradesh,MP_District_02,60643,31198,29445,80.73,1040,58.31,944,25134,Synthetic / Simulated,2025
+Madhya Pradesh,MP_District_03,41549,21422,20127,75.8,1254,33.13,940,11215,Synthetic / Simulated,2025
+Madhya Pradesh,MP_District_04,69216,35814,33402,80.2,1485,46.61,933,18598,Synthetic / Simulated,2025
+Madhya Pradesh,MP_District_05,55886,29452,26434,74.83,1253,44.6,898,18080,Synthetic / Simulated,2025
+Madhya Pradesh,MP_District_06,91963,47164,44799,78.32,709,129.71,950,30555,Synthetic / Simulated,2025
+Madhya Pradesh,MP_District_07,66518,35098,31420,75.36,1315,50.58,895,17853,Synthetic / Simulated,2025
+Madhya Pradesh,MP_District_08,81488,42646,38842,81.11,771,105.69,911,21882,Synthetic / Simulated,2025
+Madhya Pradesh,MP_District_09,102751,52703,50048,79.18,1480,69.43,950,29857,Synthetic / Simulated,2025
+Madhya Pradesh,MP_District_10,71059,37584,33475,77.25,1544,46.02,891,20681,Synthetic / Simulated,2025
+Madhya Pradesh,MP_District_11,64817,34075,30742,80.09,1140,56.86,902,20123,Synthetic / Simulated,2025
+Madhya Pradesh,MP_District_12,71111,37124,33987,77.98,1346,52.83,915,26192,Synthetic / Simulated,2025
+Madhya Pradesh,MP_District_13,63650,32807,30843,77.61,1576,40.39,940,24604,Synthetic / Simulated,2025
+Madhya Pradesh,MP_District_14,84381,44094,40287,77.17,1169,72.18,914,31300,Synthetic / Simulated,2025
+Madhya Pradesh,MP_District_15,94882,49040,45842,80.08,1576,60.2,935,26087,Synthetic / Simulated,2025
+Madhya Pradesh,MP_District_16,88650,46645,42005,78.94,1743,50.86,901,24633,Synthetic / Simulated,2025
+Madhya Pradesh,MP_District_17,99914,52136,47778,77.54,1978,50.51,916,32191,Synthetic / Simulated,2025
+Madhya Pradesh,MP_District_18,72362,38166,34196,76.63,1509,47.95,896,28950,Synthetic / Simulated,2025
+Madhya Pradesh,MP_District_19,77710,40364,37346,78.99,1756,44.25,925,24001,Synthetic / Simulated,2025
+Madhya Pradesh,MP_District_20,70792,37336,33456,78.28,1929,36.7,896,23966,Synthetic / Simulated,2025
+Maharashtra,MH_District_01,85821,44525,41296,90.02,427,200.99,927,45603,Synthetic / Simulated,2025
+Maharashtra,MH_District_02,68816,35356,33460,90.66,474,145.18,946,45715,Synthetic / Simulated,2025
+Maharashtra,MH_District_03,78311,40501,37810,90.82,521,150.31,934,53229,Synthetic / Simulated,2025
+Maharashtra,MH_District_04,86665,44464,42201,87.5,568,152.58,949,57032,Synthetic / Simulated,2025
+Maharashtra,MH_District_05,74296,38926,35370,90.08,615,120.81,909,48906,Synthetic / Simulated,2025
+Maharashtra,MH_District_06,70894,36395,34499,87.69,662,107.09,948,42313,Synthetic / Simulated,2025
+Maharashtra,MH_District_07,110120,57571,52549,87.35,709,155.32,913,71314,Synthetic / Simulated,2025
+Maharashtra,MH_District_08,96739,51126,45613,92.44,756,127.96,892,60475,Synthetic / Simulated,2025
+Maharashtra,MH_District_09,85426,45096,40330,85.76,803,106.38,894,54199,Synthetic / Simulated,2025
+Maharashtra,MH_District_10,67913,35360,32553,87.57,850,79.9,921,41973,Synthetic / Simulated,2025
+Maharashtra,MH_District_11,95670,49393,46277,89.28,897,106.66,937,54289,Synthetic / Simulated,2025
+Maharashtra,MH_District_12,114855,59251,55604,87.7,944,121.67,938,70532,Synthetic / Simulated,2025
+Maharashtra,MH_District_13,69651,36792,32859,89.86,991,70.28,893,38046,Synthetic / Simulated,2025
+Maharashtra,MH_District_14,103673,53085,50588,88.76,1038,99.88,953,62717,Synthetic / Simulated,2025
+Maharashtra,MH_District_15,93581,49472,44109,90.09,1085,86.25,892,50648,Synthetic / Simulated,2025
+Maharashtra,MH_District_16,116002,60659,55343,87.18,1132,102.48,912,74205,Synthetic / Simulated,2025
+Maharashtra,MH_District_17,103702,54750,48952,89.37,1179,87.96,894,64476,Synthetic / Simulated,2025
+Maharashtra,MH_District_18,107455,54918,52537,87.75,1226,87.65,957,68891,Synthetic / Simulated,2025
+Maharashtra,MH_District_19,95822,50661,45161,89.53,1273,75.27,891,60367,Synthetic / Simulated,2025
+Maharashtra,MH_District_20,118239,62168,56071,86.86,1320,89.58,902,77053,Synthetic / Simulated,2025
+Manipur,MN_District_01,41733,20758,20975,80.57,3781,11.04,1010,17449,Synthetic / Simulated,2025
+Manipur,MN_District_02,26460,13233,13227,83.69,5181,5.11,1000,10749,Synthetic / Simulated,2025
+Manipur,MN_District_03,26023,13190,12833,80.82,1305,19.94,973,11093,Synthetic / Simulated,2025
+Manipur,MN_District_04,32747,16183,16564,82.68,5735,5.71,1024,14067,Synthetic / Simulated,2025
+Manipur,MN_District_05,41920,20590,21330,83.82,4023,10.42,1036,13362,Synthetic / Simulated,2025
+Manipur,MN_District_06,60873,30181,30692,80.12,6275,9.7,1017,19222,Synthetic / Simulated,2025
+Manipur,MN_District_07,56097,27947,28150,80.58,4830,11.61,1007,16611,Synthetic / Simulated,2025
+Manipur,MN_District_08,43100,21312,21788,85.76,5258,8.2,1022,18416,Synthetic / Simulated,2025
+Manipur,MN_District_09,42763,21134,21629,83.09,5937,7.2,1023,13702,Synthetic / Simulated,2025
+Manipur,MN_District_10,26536,13452,13084,84.98,5387,4.93,973,9309,Synthetic / Simulated,2025
+Manipur,MN_District_11,53540,26591,26949,83.36,4763,11.24,1013,20953,Synthetic / Simulated,2025
+Manipur,MN_District_12,53448,26461,26987,79.63,4088,13.07,1020,16456,Synthetic / Simulated,2025
+Manipur,MN_District_13,32604,16465,16139,80.08,4025,8.1,980,11428,Synthetic / Simulated,2025
+Manipur,MN_District_14,61212,30857,30355,81.74,5975,10.24,984,20661,Synthetic / Simulated,2025
+Manipur,MN_District_15,61987,30881,31106,81.94,4490,13.81,1007,24281,Synthetic / Simulated,2025
+Manipur,MN_District_16,30811,15644,15167,81.76,2086,14.77,970,11345,Synthetic / Simulated,2025
+Manipur,MN_District_17,50974,25584,25390,82.1,3722,13.7,992,14997,Synthetic / Simulated,2025
+Manipur,MN_District_18,69457,34583,34874,84.79,6229,11.15,1008,23413,Synthetic / Simulated,2025
+Manipur,MN_District_19,73081,36483,36598,84.29,2536,28.82,1003,29019,Synthetic / Simulated,2025
+Manipur,MN_District_20,73088,36188,36900,86.27,3865,18.91,1020,25844,Synthetic / Simulated,2025
+Meghalaya,ML_District_01,43767,22435,21332,74.65,4007,10.92,951,11888,Synthetic / Simulated,2025
+Meghalaya,ML_District_02,16756,8595,8161,77.91,3768,4.45,950,4108,Synthetic / Simulated,2025
+Meghalaya,ML_District_03,36322,18455,17867,80.19,4185,8.68,968,11247,Synthetic / Simulated,2025
+Meghalaya,ML_District_04,21792,11257,10535,78.79,4904,4.44,936,7900,Synthetic / Simulated,2025
+Meghalaya,ML_District_05,25116,12774,12342,78.6,5633,4.46,966,7662,Synthetic / Simulated,2025
+Meghalaya,ML_District_06,51044,25725,25319,76.04,5725,8.92,984,15405,Synthetic / Simulated,2025
+Meghalaya,ML_District_07,27156,13790,13366,78.58,1164,23.33,969,9942,Synthetic / Simulated,2025
+Meghalaya,ML_District_08,36039,18374,17665,76.51,6235,5.78,961,9421,Synthetic / Simulated,2025
+Meghalaya,ML_District_09,58364,29712,28652,76.15,1125,51.88,964,13782,Synthetic / Simulated,2025
+Meghalaya,ML_District_10,41622,21163,20459,80.18,6184,6.73,967,13771,Synthetic / Simulated,2025
+Meghalaya,ML_District_11,41408,20774,20634,76.55,1663,24.9,993,13244,Synthetic / Simulated,2025
+Meghalaya,ML_District_12,45215,22919,22296,75.46,2070,21.84,973,10358,Synthetic / Simulated,2025
+Meghalaya,ML_District_13,68161,35007,33154,79.46,6115,11.15,947,19976,Synthetic / Simulated,2025
+Meghalaya,ML_District_14,46231,23616,22615,80.47,2657,17.4,958,16176,Synthetic / Simulated,2025
+Meghalaya,ML_District_15,33025,16985,16040,80.07,5274,6.26,944,7699,Synthetic / Simulated,2025
+Meghalaya,ML_District_16,69125,35126,33999,73.93,6146,11.25,968,18786,Synthetic / Simulated,2025
+Meghalaya,ML_District_17,42510,21427,21083,76.89,4252,10,984,12231,Synthetic / Simulated,2025
+Meghalaya,ML_District_18,61925,31662,30263,80.46,2041,30.34,956,22904,Synthetic / Simulated,2025
+Meghalaya,ML_District_19,59527,30806,28721,79.39,4525,13.16,932,13053,Synthetic / Simulated,2025
+Meghalaya,ML_District_20,75917,38456,37461,75.11,5720,13.27,974,27900,Synthetic / Simulated,2025
+Mizoram,MZ_District_01,51291,25635,25656,89.04,2699,19,1001,23230,Synthetic / Simulated,2025
+Mizoram,MZ_District_02,38520,19044,19476,87.65,4759,8.09,1023,12121,Synthetic / Simulated,2025
+Mizoram,MZ_District_03,49166,24560,24606,92.1,931,52.81,1002,18922,Synthetic / Simulated,2025
+Mizoram,MZ_District_04,17008,8535,8473,90.89,595,28.58,993,6990,Synthetic / Simulated,2025
+Mizoram,MZ_District_05,36124,18128,17996,90.39,4543,7.95,993,15877,Synthetic / Simulated,2025
+Mizoram,MZ_District_06,56623,27972,28651,92.05,3625,15.62,1024,23833,Synthetic / Simulated,2025
+Mizoram,MZ_District_07,32885,16286,16599,92.88,6589,4.99,1019,12230,Synthetic / Simulated,2025
+Mizoram,MZ_District_08,24310,12228,12082,91.88,2155,11.28,988,7735,Synthetic / Simulated,2025
+Mizoram,MZ_District_09,59995,30003,29992,90.7,4175,14.37,1000,23022,Synthetic / Simulated,2025
+Mizoram,MZ_District_10,33666,16705,16961,89.11,5517,6.1,1015,14396,Synthetic / Simulated,2025
+Mizoram,MZ_District_11,23682,11831,11851,89.02,3829,6.18,1002,7816,Synthetic / Simulated,2025
+Mizoram,MZ_District_12,54442,26940,27502,92.57,6238,8.73,1021,19659,Synthetic / Simulated,2025
+Mizoram,MZ_District_13,42063,20692,21371,89,6440,6.53,1033,13637,Synthetic / Simulated,2025
+Mizoram,MZ_District_14,65857,33351,32506,90.72,1472,44.74,975,26072,Synthetic / Simulated,2025
+Mizoram,MZ_District_15,28561,14282,14279,89.49,6941,4.11,1000,11388,Synthetic / Simulated,2025
+Mizoram,MZ_District_16,31917,15848,16069,91.74,3310,9.64,1014,13161,Synthetic / Simulated,2025
+Mizoram,MZ_District_17,56054,28347,27707,89.38,2992,18.73,977,24623,Synthetic / Simulated,2025
+Mizoram,MZ_District_18,55692,28107,27585,89.39,5628,9.9,981,19414,Synthetic / Simulated,2025
+Mizoram,MZ_District_19,70138,34808,35330,93.8,2279,30.78,1015,25912,Synthetic / Simulated,2025
+Mizoram,MZ_District_20,34269,17429,16840,92.02,4197,8.17,966,14048,Synthetic / Simulated,2025
+Nagaland,NL_District_01,30045,14765,15280,85.4,444,67.67,1035,11238,Synthetic / Simulated,2025
+Nagaland,NL_District_02,24192,11926,12266,78.75,3300,7.33,1029,8710,Synthetic / Simulated,2025
+Nagaland,NL_District_03,41039,20312,20727,84.54,898,45.7,1020,14685,Synthetic / Simulated,2025
+Nagaland,NL_District_04,15216,7572,7644,84.61,5057,3.01,1010,4746,Synthetic / Simulated,2025
+Nagaland,NL_District_05,14582,7300,7282,81.17,1929,7.56,998,3613,Synthetic / Simulated,2025
+Nagaland,NL_District_06,49616,24740,24876,79.06,1535,32.32,1005,16159,Synthetic / Simulated,2025
+Nagaland,NL_District_07,23351,11804,11547,84.56,2105,11.09,978,6443,Synthetic / Simulated,2025
+Nagaland,NL_District_08,49693,24824,24869,81.26,6247,7.95,1002,18440,Synthetic / Simulated,2025
+Nagaland,NL_District_09,32697,16584,16113,84.21,996,32.83,972,12123,Synthetic / Simulated,2025
+Nagaland,NL_District_10,26412,13156,13256,82.04,3388,7.8,1008,7444,Synthetic / Simulated,2025
+Nagaland,NL_District_11,38276,19186,19090,80.84,5681,6.74,995,9732,Synthetic / Simulated,2025
+Nagaland,NL_District_12,53894,26866,27028,79.36,3579,15.06,1006,19383,Synthetic / Simulated,2025
+Nagaland,NL_District_13,38932,19458,19474,81.88,6302,6.18,1001,10587,Synthetic / Simulated,2025
+Nagaland,NL_District_14,56202,27795,28407,80.81,4704,11.95,1022,15471,Synthetic / Simulated,2025
+Nagaland,NL_District_15,40849,20732,20117,79.13,6647,6.15,970,15287,Synthetic / Simulated,2025
+Nagaland,NL_District_16,53092,26354,26738,84.3,1720,30.87,1015,14014,Synthetic / Simulated,2025
+Nagaland,NL_District_17,66306,33322,32984,83.56,4788,13.85,990,20268,Synthetic / Simulated,2025
+Nagaland,NL_District_18,57261,28501,28760,85.1,4350,13.16,1009,19071,Synthetic / Simulated,2025
+Nagaland,NL_District_19,70508,34752,35756,84.16,6759,10.43,1029,18340,Synthetic / Simulated,2025
+Nagaland,NL_District_20,72169,36240,35929,81.93,5091,14.18,991,20144,Synthetic / Simulated,2025
+Odisha,OD_District_01,42432,22396,20036,75.55,430,98.68,895,16513,Synthetic / Simulated,2025
+Odisha,OD_District_02,75285,38848,36437,80.54,1230,61.21,938,27257,Synthetic / Simulated,2025
+Odisha,OD_District_03,54237,27960,26277,76.64,2057,26.37,940,15258,Synthetic / Simulated,2025
+Odisha,OD_District_04,82410,42478,39932,81.25,1391,59.25,940,34096,Synthetic / Simulated,2025
+Odisha,OD_District_05,60516,31428,29088,78.59,726,83.36,926,18129,Synthetic / Simulated,2025
+Odisha,OD_District_06,86401,44277,42124,80.2,2380,36.3,951,35317,Synthetic / Simulated,2025
+Odisha,OD_District_07,61913,32119,29794,78.86,1806,34.28,928,19476,Synthetic / Simulated,2025
+Odisha,OD_District_08,66527,35135,31392,81.33,1416,46.98,893,19599,Synthetic / Simulated,2025
+Odisha,OD_District_09,56383,29038,27345,80.09,1982,28.45,942,20367,Synthetic / Simulated,2025
+Odisha,OD_District_10,79380,41044,38336,75.36,1150,69.03,934,34049,Synthetic / Simulated,2025
+Odisha,OD_District_11,86010,45223,40787,81.06,2649,32.47,902,28905,Synthetic / Simulated,2025
+Odisha,OD_District_12,71069,36969,34100,77.32,1879,37.82,922,28524,Synthetic / Simulated,2025
+Odisha,OD_District_13,81428,42381,39047,75.07,2294,35.5,921,32800,Synthetic / Simulated,2025
+Odisha,OD_District_14,85992,44120,41872,77.36,2776,30.98,949,28144,Synthetic / Simulated,2025
+Odisha,OD_District_15,74270,39158,35112,76.42,2091,35.52,897,29987,Synthetic / Simulated,2025
+Odisha,OD_District_16,69876,36169,33707,80.76,1405,49.73,932,25939,Synthetic / Simulated,2025
+Odisha,OD_District_17,92096,47888,44208,78.78,1704,54.05,923,27123,Synthetic / Simulated,2025
+Odisha,OD_District_18,77268,40453,36815,78.72,2434,31.75,910,29142,Synthetic / Simulated,2025
+Odisha,OD_District_19,58002,30406,27596,74.77,1286,45.1,908,17366,Synthetic / Simulated,2025
+Odisha,OD_District_20,79772,41996,37776,79.96,2708,29.46,900,32194,Synthetic / Simulated,2025
+Punjab,PB_District_01,36941,19664,17277,88.95,3206,11.52,879,16079,Synthetic / Simulated,2025
+Punjab,PB_District_02,62137,33296,28841,86.43,3185,19.51,866,24249,Synthetic / Simulated,2025
+Punjab,PB_District_03,66434,34965,31469,87,1521,43.68,900,26633,Synthetic / Simulated,2025
+Punjab,PB_District_04,54799,29534,25265,86.66,3162,17.33,855,24923,Synthetic / Simulated,2025
+Punjab,PB_District_05,38070,20097,17973,87.86,1407,27.06,894,17509,Synthetic / Simulated,2025
+Punjab,PB_District_06,51266,27198,24068,86.41,1647,31.13,885,28004,Synthetic / Simulated,2025
+Punjab,PB_District_07,64857,34804,30053,86.13,3030,21.4,863,29465,Synthetic / Simulated,2025
+Punjab,PB_District_08,40507,21707,18800,85.84,1218,33.26,866,18345,Synthetic / Simulated,2025
+Punjab,PB_District_09,78759,42289,36470,86.92,1598,49.29,862,42243,Synthetic / Simulated,2025
+Punjab,PB_District_10,43665,23142,20523,89.18,2601,16.79,887,18014,Synthetic / Simulated,2025
+Punjab,PB_District_11,58805,31177,27628,88.04,2273,25.87,886,26828,Synthetic / Simulated,2025
+Punjab,PB_District_12,85552,45080,40472,87.73,4072,21.01,898,39531,Synthetic / Simulated,2025
+Punjab,PB_District_13,38022,20261,17761,91.1,3184,11.94,877,18739,Synthetic / Simulated,2025
+Punjab,PB_District_14,79981,41722,38259,84.68,1387,57.66,917,41107,Synthetic / Simulated,2025
+Punjab,PB_District_15,74116,39366,34750,89.01,3367,22.01,883,36003,Synthetic / Simulated,2025
+Punjab,PB_District_16,61197,32880,28317,88.98,4386,13.95,861,31676,Synthetic / Simulated,2025
+Punjab,PB_District_17,58191,30764,27427,90.95,1291,45.07,892,29389,Synthetic / Simulated,2025
+Punjab,PB_District_18,76164,40438,35726,91.33,1865,40.84,883,32169,Synthetic / Simulated,2025
+Punjab,PB_District_19,63162,33192,29970,86.77,3006,21.01,903,31390,Synthetic / Simulated,2025
+Punjab,PB_District_20,78014,41209,36805,86.05,4220,18.49,893,39040,Synthetic / Simulated,2025
+Rajasthan,RJ_District_01,52183,28098,24085,76.35,767,68.04,857,14261,Synthetic / Simulated,2025
+Rajasthan,RJ_District_02,66669,35503,31166,76.25,525,126.99,878,25095,Synthetic / Simulated,2025
+Rajasthan,RJ_District_03,69081,36378,32703,81.4,915,75.5,899,24926,Synthetic / Simulated,2025
+Rajasthan,RJ_District_04,74271,39662,34609,78.77,764,97.21,873,25386,Synthetic / Simulated,2025
+Rajasthan,RJ_District_05,93329,48743,44586,79.9,642,145.37,915,35443,Synthetic / Simulated,2025
+Rajasthan,RJ_District_06,52049,27782,24267,76.65,1076,48.37,873,18799,Synthetic / Simulated,2025
+Rajasthan,RJ_District_07,92084,49163,42921,77.81,986,93.39,873,30155,Synthetic / Simulated,2025
+Rajasthan,RJ_District_08,78284,42176,36108,79.11,803,97.49,856,19421,Synthetic / Simulated,2025
+Rajasthan,RJ_District_09,75402,39950,35452,80.08,839,89.87,887,17772,Synthetic / Simulated,2025
+Rajasthan,RJ_District_10,77182,40451,36731,79.43,947,81.5,908,26081,Synthetic / Simulated,2025
+Rajasthan,RJ_District_11,79247,41913,37334,80.95,1208,65.6,891,25241,Synthetic / Simulated,2025
+Rajasthan,RJ_District_12,115299,60579,54720,81.07,1082,106.56,903,36358,Synthetic / Simulated,2025
+Rajasthan,RJ_District_13,83618,43605,40013,77.02,1003,83.37,918,28308,Synthetic / Simulated,2025
+Rajasthan,RJ_District_14,89740,47080,42660,76.97,1308,68.61,906,20075,Synthetic / Simulated,2025
+Rajasthan,RJ_District_15,72106,37937,34169,81.71,1209,59.64,901,23726,Synthetic / Simulated,2025
+Rajasthan,RJ_District_16,91585,49001,42584,80.87,1183,77.42,869,34258,Synthetic / Simulated,2025
+Rajasthan,RJ_District_17,110432,58783,51649,79.99,1405,78.6,879,40764,Synthetic / Simulated,2025
+Rajasthan,RJ_District_18,61618,32163,29455,80.11,1584,38.9,916,16707,Synthetic / Simulated,2025
+Rajasthan,RJ_District_19,107388,57488,49900,80.51,1328,80.86,868,37579,Synthetic / Simulated,2025
+Rajasthan,RJ_District_20,92457,49745,42712,82.23,1623,56.97,859,21622,Synthetic / Simulated,2025
+Sikkim,SK_District_01,45937,23028,22909,90.58,4745,9.68,995,11894,Synthetic / Simulated,2025
+Sikkim,SK_District_02,10383,5275,5108,88.29,2763,3.76,968,3509,Synthetic / Simulated,2025
+Sikkim,SK_District_03,20487,10134,10353,85.54,5199,3.94,1022,7786,Synthetic / Simulated,2025
+Sikkim,SK_District_04,24859,12468,12391,86.86,901,27.59,994,6417,Synthetic / Simulated,2025
+Sikkim,SK_District_05,44285,22304,21981,88.54,5004,8.85,986,15815,Synthetic / Simulated,2025
+Sikkim,SK_District_06,22549,11272,11277,86.9,3972,5.68,1000,5794,Synthetic / Simulated,2025
+Sikkim,SK_District_07,55217,27557,27660,85.74,6749,8.18,1004,18676,Synthetic / Simulated,2025
+Sikkim,SK_District_08,25556,12552,13004,91.17,5131,4.98,1036,8147,Synthetic / Simulated,2025
+Sikkim,SK_District_09,56543,28517,28026,85.38,7147,7.91,983,19675,Synthetic / Simulated,2025
+Sikkim,SK_District_10,41519,20933,20586,87.82,3192,13.01,983,13092,Synthetic / Simulated,2025
+Sikkim,SK_District_11,42815,21232,21583,91.43,1804,23.73,1017,13950,Synthetic / Simulated,2025
+Sikkim,SK_District_12,49337,24679,24658,91.17,3402,14.5,999,14844,Synthetic / Simulated,2025
+Sikkim,SK_District_13,29079,14613,14466,86.53,1017,28.59,990,9240,Synthetic / Simulated,2025
+Sikkim,SK_District_14,60807,30586,30221,89.13,6034,10.08,988,17306,Synthetic / Simulated,2025
+Sikkim,SK_District_15,53675,26700,26975,90.63,7416,7.24,1010,17098,Synthetic / Simulated,2025
+Sikkim,SK_District_16,48713,24359,24354,90.47,1490,32.69,1000,13510,Synthetic / Simulated,2025
+Sikkim,SK_District_17,38788,19058,19730,90.34,3639,10.66,1035,10172,Synthetic / Simulated,2025
+Sikkim,SK_District_18,39220,19553,19667,89.03,4904,8,1006,12955,Synthetic / Simulated,2025
+Sikkim,SK_District_19,39527,19791,19736,91.11,6221,6.35,997,14974,Synthetic / Simulated,2025
+Sikkim,SK_District_20,59411,29325,30086,85.6,5257,11.3,1026,19227,Synthetic / Simulated,2025
+Tamil Nadu,TN_District_01,94107,49193,44914,93.64,653,144.11,913,45516,Synthetic / Simulated,2025
+Tamil Nadu,TN_District_02,59102,31166,27936,88.94,640,92.35,896,29052,Synthetic / Simulated,2025
+Tamil Nadu,TN_District_03,67621,34645,32976,92.08,587,115.2,952,43145,Synthetic / Simulated,2025
+Tamil Nadu,TN_District_04,75656,39455,36201,89.39,805,93.98,918,38015,Synthetic / Simulated,2025
+Tamil Nadu,TN_District_05,95674,48926,46748,88.06,830,115.27,955,54338,Synthetic / Simulated,2025
+Tamil Nadu,TN_District_06,98897,50738,48159,90.76,744,132.93,949,57440,Synthetic / Simulated,2025
+Tamil Nadu,TN_District_07,101867,53850,48017,88.55,752,135.46,892,50785,Synthetic / Simulated,2025
+Tamil Nadu,TN_District_08,72783,38167,34616,92.65,994,73.22,907,45745,Synthetic / Simulated,2025
+Tamil Nadu,TN_District_09,69389,36620,32769,92.01,814,85.24,895,38301,Synthetic / Simulated,2025
+Tamil Nadu,TN_District_10,92914,48972,43942,91.36,971,95.69,897,55149,Synthetic / Simulated,2025
+Tamil Nadu,TN_District_11,116012,60166,55846,90.46,934,124.21,928,58698,Synthetic / Simulated,2025
+Tamil Nadu,TN_District_12,90240,47199,43041,92.95,1089,82.87,912,48998,Synthetic / Simulated,2025
+Tamil Nadu,TN_District_13,83660,43029,40631,88.37,1055,79.3,944,40215,Synthetic / Simulated,2025
+Tamil Nadu,TN_District_14,73700,38140,35560,91.23,1057,69.73,932,40385,Synthetic / Simulated,2025
+Tamil Nadu,TN_District_15,82883,42633,40250,89.43,1172,70.72,944,44044,Synthetic / Simulated,2025
+Tamil Nadu,TN_District_16,85316,44265,41051,88.63,1138,74.97,927,52762,Synthetic / Simulated,2025
+Tamil Nadu,TN_District_17,97522,50416,47106,87.81,1290,75.6,934,51136,Synthetic / Simulated,2025
+Tamil Nadu,TN_District_18,120179,63216,56963,92.33,1348,89.15,901,58243,Synthetic / Simulated,2025
+Tamil Nadu,TN_District_19,113344,58305,55039,88.2,1417,79.99,944,67275,Synthetic / Simulated,2025
+Tamil Nadu,TN_District_20,83285,43504,39781,90,1541,54.05,914,41925,Synthetic / Simulated,2025
+Telangana,TS_District_01,63417,32929,30488,84.89,1367,46.39,926,35874,Synthetic / Simulated,2025
+Telangana,TS_District_02,54481,28168,26313,83.12,620,87.87,934,27035,Synthetic / Simulated,2025
+Telangana,TS_District_03,55374,28359,27015,85.77,3112,17.79,953,28292,Synthetic / Simulated,2025
+Telangana,TS_District_04,48744,25248,23496,82.7,1927,25.3,931,22280,Synthetic / Simulated,2025
+Telangana,TS_District_05,62258,31886,30372,86.77,2551,24.41,953,29077,Synthetic / Simulated,2025
+Telangana,TS_District_06,38396,20077,18319,85.79,2199,17.46,912,21392,Synthetic / Simulated,2025
+Telangana,TS_District_07,86586,45506,41080,86.28,1384,62.56,903,47975,Synthetic / Simulated,2025
+Telangana,TS_District_08,46246,24451,21795,88.27,1405,32.92,891,26085,Synthetic / Simulated,2025
+Telangana,TS_District_09,43610,23056,20554,83.63,1139,38.29,891,24755,Synthetic / Simulated,2025
+Telangana,TS_District_10,93718,47921,45797,85.65,3451,27.16,956,47167,Synthetic / Simulated,2025
+Telangana,TS_District_11,53960,28058,25902,84.46,2380,22.67,923,30632,Synthetic / Simulated,2025
+Telangana,TS_District_12,73364,37498,35866,85.92,3313,22.14,956,42473,Synthetic / Simulated,2025
+Telangana,TS_District_13,46054,23846,22208,88.78,1691,27.23,931,20758,Synthetic / Simulated,2025
+Telangana,TS_District_14,85560,44046,41514,82.75,3571,23.96,943,51478,Synthetic / Simulated,2025
+Telangana,TS_District_15,55640,28486,27154,85.89,3225,17.25,953,31317,Synthetic / Simulated,2025
+Telangana,TS_District_16,74195,38010,36185,84.45,1498,49.53,952,38661,Synthetic / Simulated,2025
+Telangana,TS_District_17,93577,49142,44435,89.49,3610,25.92,904,45929,Synthetic / Simulated,2025
+Telangana,TS_District_18,96644,50078,46566,85.63,3147,30.71,930,48336,Synthetic / Simulated,2025
+Telangana,TS_District_19,95961,49157,46804,86.84,3000,31.99,952,54624,Synthetic / Simulated,2025
+Telangana,TS_District_20,72580,37245,35335,87.37,1575,46.08,949,44219,Synthetic / Simulated,2025
+Tripura,TR_District_01,28711,14512,14199,81.44,2530,11.35,978,11793,Synthetic / Simulated,2025
+Tripura,TR_District_02,36013,18312,17701,80.33,4966,7.25,967,13940,Synthetic / Simulated,2025
+Tripura,TR_District_03,37111,19075,18036,81.9,5832,6.36,946,13999,Synthetic / Simulated,2025
+Tripura,TR_District_04,62580,31640,30940,82.23,5264,11.89,978,22925,Synthetic / Simulated,2025
+Tripura,TR_District_05,32527,16568,15959,79.89,3799,8.56,963,9076,Synthetic / Simulated,2025
+Tripura,TR_District_06,48962,25103,23859,84.51,779,62.85,950,17190,Synthetic / Simulated,2025
+Tripura,TR_District_07,39880,20494,19386,83.22,779,51.19,946,11173,Synthetic / Simulated,2025
+Tripura,TR_District_08,47925,24154,23771,80.12,1913,25.05,984,19363,Synthetic / Simulated,2025
+Tripura,TR_District_09,64143,32209,31934,82.59,3949,16.24,991,19042,Synthetic / Simulated,2025
+Tripura,TR_District_10,37888,19316,18572,79.83,1610,23.53,961,14041,Synthetic / Simulated,2025
+Tripura,TR_District_11,45114,22863,22251,84.48,5591,8.07,973,12928,Synthetic / Simulated,2025
+Tripura,TR_District_12,43998,22120,21878,82.37,2212,19.89,989,15730,Synthetic / Simulated,2025
+Tripura,TR_District_13,64593,33381,31212,85.28,5188,12.45,935,19090,Synthetic / Simulated,2025
+Tripura,TR_District_14,62023,31436,30587,84.45,1854,33.45,973,25656,Synthetic / Simulated,2025
+Tripura,TR_District_15,54587,27778,26809,84.52,5534,9.86,965,17586,Synthetic / Simulated,2025
+Tripura,TR_District_16,37995,19298,18697,82.39,2029,18.73,969,11023,Synthetic / Simulated,2025
+Tripura,TR_District_17,67871,34398,33473,82.94,4671,14.53,973,28059,Synthetic / Simulated,2025
+Tripura,TR_District_18,43918,22096,21822,81.8,2169,20.25,988,15705,Synthetic / Simulated,2025
+Tripura,TR_District_19,77395,39833,37562,82.66,1445,53.56,943,25716,Synthetic / Simulated,2025
+Tripura,TR_District_20,82714,42264,40450,84.77,2414,34.26,957,26308,Synthetic / Simulated,2025
+Uttar Pradesh,UP_District_01,91259,48902,42357,70.72,427,213.72,866,33149,Synthetic / Simulated,2025
+Uttar Pradesh,UP_District_02,84323,44744,39579,71.41,474,177.9,885,28559,Synthetic / Simulated,2025
+Uttar Pradesh,UP_District_03,110556,59537,51019,73.76,521,212.2,857,28065,Synthetic / Simulated,2025
+Uttar Pradesh,UP_District_04,92283,49726,42557,71.53,568,162.47,856,31847,Synthetic / Simulated,2025
+Uttar Pradesh,UP_District_05,80622,42452,38170,72.56,615,131.09,899,22516,Synthetic / Simulated,2025
+Uttar Pradesh,UP_District_06,99482,52975,46507,74.09,662,150.27,878,35997,Synthetic / Simulated,2025
+Uttar Pradesh,UP_District_07,109705,57223,52482,70.87,709,154.73,917,31571,Synthetic / Simulated,2025
+Uttar Pradesh,UP_District_08,115895,60714,55181,69.54,756,153.3,909,39083,Synthetic / Simulated,2025
+Uttar Pradesh,UP_District_09,118313,63231,55082,75.47,803,147.34,871,37210,Synthetic / Simulated,2025
+Uttar Pradesh,UP_District_10,140831,73745,67086,74.17,850,165.68,910,47926,Synthetic / Simulated,2025
+Uttar Pradesh,UP_District_11,89438,47395,42043,68.66,897,99.71,887,21551,Synthetic / Simulated,2025
+Uttar Pradesh,UP_District_12,105473,55684,49789,71.16,944,111.73,894,23980,Synthetic / Simulated,2025
+Uttar Pradesh,UP_District_13,138758,74244,64514,69.51,991,140.02,869,42714,Synthetic / Simulated,2025
+Uttar Pradesh,UP_District_14,103891,54580,49311,70.95,1038,100.09,903,29645,Synthetic / Simulated,2025
+Uttar Pradesh,UP_District_15,105410,56650,48760,70.49,1085,97.15,861,23039,Synthetic / Simulated,2025
+Uttar Pradesh,UP_District_16,115949,60861,55088,71.04,1132,102.43,905,33627,Synthetic / Simulated,2025
+Uttar Pradesh,UP_District_17,93490,49379,44111,71.49,1179,79.3,893,19749,Synthetic / Simulated,2025
+Uttar Pradesh,UP_District_18,113155,60917,52238,75.4,1226,92.3,858,24432,Synthetic / Simulated,2025
+Uttar Pradesh,UP_District_19,147763,77766,69997,71.18,1273,116.07,900,46723,Synthetic / Simulated,2025
+Uttar Pradesh,UP_District_20,115202,60688,54514,69.15,1320,87.27,898,31800,Synthetic / Simulated,2025
+Uttarakhand,UK_District_01,54782,28105,26677,84.33,5110,10.72,949,20106,Synthetic / Simulated,2025
+Uttarakhand,UK_District_02,35443,17849,17594,81.01,4416,8.03,986,11285,Synthetic / Simulated,2025
+Uttarakhand,UK_District_03,23200,11885,11315,80.46,2174,10.67,952,7473,Synthetic / Simulated,2025
+Uttarakhand,UK_District_04,32695,16957,15738,82.94,3414,9.58,928,12987,Synthetic / Simulated,2025
+Uttarakhand,UK_District_05,37629,19223,18406,84.07,1510,24.92,957,13730,Synthetic / Simulated,2025
+Uttarakhand,UK_District_06,62079,32124,29955,79.78,4484,13.84,932,25216,Synthetic / Simulated,2025
+Uttarakhand,UK_District_07,37879,19293,18586,83.12,4328,8.75,963,15127,Synthetic / Simulated,2025
+Uttarakhand,UK_District_08,39939,20083,19856,85.75,3209,12.45,989,13223,Synthetic / Simulated,2025
+Uttarakhand,UK_District_09,57652,29660,27992,80.66,4219,13.66,944,23596,Synthetic / Simulated,2025
+Uttarakhand,UK_District_10,38086,19617,18469,85.45,3245,11.74,941,14075,Synthetic / Simulated,2025
+Uttarakhand,UK_District_11,37307,19066,18241,79.82,5268,7.08,957,16339,Synthetic / Simulated,2025
+Uttarakhand,UK_District_12,51589,26632,24957,85.33,2735,18.86,937,17305,Synthetic / Simulated,2025
+Uttarakhand,UK_District_13,74706,38314,36392,81.35,1133,65.94,950,32603,Synthetic / Simulated,2025
+Uttarakhand,UK_District_14,49839,25189,24650,83.95,1910,26.09,979,18695,Synthetic / Simulated,2025
+Uttarakhand,UK_District_15,79500,40675,38825,79.64,4812,16.52,955,28398,Synthetic / Simulated,2025
+Uttarakhand,UK_District_16,75290,38758,36532,80.62,5244,14.36,943,26594,Synthetic / Simulated,2025
+Uttarakhand,UK_District_17,46273,23466,22807,79.8,5197,8.9,972,19972,Synthetic / Simulated,2025
+Uttarakhand,UK_District_18,46569,23332,23237,82.97,2290,20.34,996,19823,Synthetic / Simulated,2025
+Uttarakhand,UK_District_19,83304,43122,40182,83.25,4609,18.07,932,27297,Synthetic / Simulated,2025
+Uttarakhand,UK_District_20,75703,38667,37036,82.71,3187,23.75,958,30056,Synthetic / Simulated,2025
+West Bengal,WB_District_01,95003,48584,46419,81.89,427,222.49,955,46205,Synthetic / Simulated,2025
+West Bengal,WB_District_02,48309,24808,23501,82.7,474,101.92,947,18352,Synthetic / Simulated,2025
+West Bengal,WB_District_03,58296,29676,28620,81.84,521,111.89,964,24110,Synthetic / Simulated,2025
+West Bengal,WB_District_04,105642,53445,52197,84.91,568,185.99,977,45842,Synthetic / Simulated,2025
+West Bengal,WB_District_05,93066,48287,44779,81.23,615,151.33,927,47049,Synthetic / Simulated,2025
+West Bengal,WB_District_06,81602,41239,40363,83.9,662,123.27,979,40957,Synthetic / Simulated,2025
+West Bengal,WB_District_07,92313,47026,45287,82.66,709,130.2,963,46603,Synthetic / Simulated,2025
+West Bengal,WB_District_08,66392,33636,32756,84.12,756,87.82,974,31876,Synthetic / Simulated,2025
+West Bengal,WB_District_09,113585,57360,56225,82.26,803,141.45,980,50512,Synthetic / Simulated,2025
+West Bengal,WB_District_10,83235,42753,40482,83.94,850,97.92,947,31719,Synthetic / Simulated,2025
+West Bengal,WB_District_11,57828,29670,28158,84.33,897,64.47,949,26562,Synthetic / Simulated,2025
+West Bengal,WB_District_12,103497,53146,50351,83.29,944,109.64,947,52322,Synthetic / Simulated,2025
+West Bengal,WB_District_13,73007,36791,36216,80.2,991,73.67,984,31913,Synthetic / Simulated,2025
+West Bengal,WB_District_14,86343,44389,41954,82.26,1038,83.18,945,32953,Synthetic / Simulated,2025
+West Bengal,WB_District_15,91742,46198,45544,85.75,1085,84.55,986,41748,Synthetic / Simulated,2025
+West Bengal,WB_District_16,119299,59986,59313,82.15,1132,105.39,989,55909,Synthetic / Simulated,2025
+West Bengal,WB_District_17,88169,44601,43568,81.55,1179,74.78,977,36243,Synthetic / Simulated,2025
+West Bengal,WB_District_18,72322,36977,35345,80.8,1226,58.99,956,30554,Synthetic / Simulated,2025
+West Bengal,WB_District_19,92178,46932,45246,79.78,1273,72.41,964,47227,Synthetic / Simulated,2025
+West Bengal,WB_District_20,86720,44072,42648,84.05,1320,65.7,968,34781,Synthetic / Simulated,2025
+Delhi,DL_District_01,80012,43812,36200,94.32,611,130.95,826,76567,Synthetic / Simulated,2025
+Delhi,DL_District_02,35158,19079,16079,92.81,1518,23.16,843,31172,Synthetic / Simulated,2025
+Delhi,DL_District_03,78826,42994,35832,93.55,1581,49.86,833,74570,Synthetic / Simulated,2025
+Delhi,DL_District_04,81017,44111,36906,97.04,1211,66.9,837,69861,Synthetic / Simulated,2025
+Delhi,DL_District_05,78765,43022,35743,93.97,1188,66.3,831,69669,Synthetic / Simulated,2025
+Delhi,DL_District_06,47274,25677,21597,95.68,1592,29.69,841,44492,Synthetic / Simulated,2025
+Delhi,DL_District_07,91245,48827,42418,98.2,1727,52.83,869,86460,Synthetic / Simulated,2025
+Delhi,DL_District_08,70624,37815,32809,93.14,1120,63.06,868,67799,Synthetic / Simulated,2025
+Delhi,DL_District_09,80526,43653,36873,97.05,1287,62.57,845,73286,Synthetic / Simulated,2025
+Delhi,DL_District_10,105808,56858,48950,95.11,1476,71.69,861,101576,Synthetic / Simulated,2025
+Delhi,DL_District_11,63153,34541,28612,97.02,1768,35.72,828,56672,Synthetic / Simulated,2025
+Delhi,DL_District_12,76065,40625,35440,92.74,1971,38.59,872,64395,Synthetic / Simulated,2025
+Delhi,DL_District_13,78916,42193,36723,96.43,1595,49.48,870,75759,Synthetic / Simulated,2025
+Delhi,DL_District_14,76552,41526,35026,96.33,1625,47.11,843,70236,Synthetic / Simulated,2025
+Delhi,DL_District_15,81507,43818,37689,97.96,1335,61.05,860,72289,Synthetic / Simulated,2025
+Delhi,DL_District_16,81168,44209,36959,93.25,2375,34.18,836,74683,Synthetic / Simulated,2025
+Delhi,DL_District_17,86345,46756,39589,95.35,2340,36.9,847,79977,Synthetic / Simulated,2025
+Delhi,DL_District_18,63919,34560,29359,93.61,1555,41.11,850,58190,Synthetic / Simulated,2025
+Delhi,DL_District_19,100860,53756,47104,98.2,1672,60.32,876,89853,Synthetic / Simulated,2025
+Delhi,DL_District_20,79609,43067,36542,92.93,2035,39.12,848,73459,Synthetic / Simulated,2025
+Jammu and Kashmir,JK_District_01,34076,17673,16403,81.05,4799,7.1,928,11816,Synthetic / Simulated,2025
+Jammu and Kashmir,JK_District_02,44377,23090,21287,79.9,1756,25.27,922,12654,Synthetic / Simulated,2025
+Jammu and Kashmir,JK_District_03,35134,18492,16642,75.42,2928,12,900,12978,Synthetic / Simulated,2025
+Jammu and Kashmir,JK_District_04,54691,28267,26424,78.86,2101,26.03,935,13324,Synthetic / Simulated,2025
+Jammu and Kashmir,JK_District_05,33150,17428,15722,80.16,2349,14.11,902,10262,Synthetic / Simulated,2025
+Jammu and Kashmir,JK_District_06,37757,19583,18174,78.68,683,55.28,928,8834,Synthetic / Simulated,2025
+Jammu and Kashmir,JK_District_07,30294,15562,14732,76.69,1727,17.54,947,6672,Synthetic / Simulated,2025
+Jammu and Kashmir,JK_District_08,53905,28065,25840,79.14,1392,38.72,921,19290,Synthetic / Simulated,2025
+Jammu and Kashmir,JK_District_09,58658,30073,28585,74.74,5089,11.53,951,17680,Synthetic / Simulated,2025
+Jammu and Kashmir,JK_District_10,67550,34525,33025,74.99,3694,18.29,957,21687,Synthetic / Simulated,2025
+Jammu and Kashmir,JK_District_11,73648,38924,34724,76.45,2596,28.37,892,25113,Synthetic / Simulated,2025
+Jammu and Kashmir,JK_District_12,72330,37458,34872,79.29,1766,40.96,931,16720,Synthetic / Simulated,2025
+Jammu and Kashmir,JK_District_13,70655,36958,33697,76.03,2638,26.78,912,16163,Synthetic / Simulated,2025
+Jammu and Kashmir,JK_District_14,31565,16677,14888,79.67,2460,12.83,893,11123,Synthetic / Simulated,2025
+Jammu and Kashmir,JK_District_15,46812,24203,22609,77.4,4046,11.57,934,11293,Synthetic / Simulated,2025
+Jammu and Kashmir,JK_District_16,43513,22545,20968,78.77,2942,14.79,930,12824,Synthetic / Simulated,2025
+Jammu and Kashmir,JK_District_17,61174,32357,28817,78.82,4164,14.69,891,19262,Synthetic / Simulated,2025
+Jammu and Kashmir,JK_District_18,62740,32739,30001,77.74,2321,27.03,916,14769,Synthetic / Simulated,2025
+Jammu and Kashmir,JK_District_19,53366,27284,26082,80.46,2604,20.49,956,15197,Synthetic / Simulated,2025
+Jammu and Kashmir,JK_District_20,67476,35209,32267,80.78,5236,12.89,916,16847,Synthetic / Simulated,2025
